@@ -39,7 +39,7 @@ Each project will have its own unique deliverables that will be negotiated in th
 |:-:        |:---------------------------------------------------                |:-------------:        |
 | 1         | Draft [project proposal](proposal.md) submitted                  | Before the semester starts          |
 | 2         | Finalize project proposal  & [Draft blog created](blog.md)          | Week 1    |
-| 3         | [Finalized data science resume submitted](resume.md)                | Week 2    |
+| 3         | Finalized data science resume submitted                | Week 2    |
 | 4         | Data ingested or documented process for ingestion & First post about your project                 | Week 4     |
 | 5         | Update project proposal with detailed steps to completion & Second post about your project        | Week 6     |
 | 6         | [Submit abstract to R&CW conference](http://www.byui.edu/research-and-creative-works-conference)  | Week 7     |
