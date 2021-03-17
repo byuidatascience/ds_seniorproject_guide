@@ -21,7 +21,6 @@ I would recommend reading posts from the internet of others that post about data
 - [Cannon Bray Medium Post](https://cannon-m-bray.medium.com/understanding-and-identifying-unfairness-in-machine-learning-80178a16357c)
 - [Gustavo Hideo Medium Post](https://medium.com/analytics-vidhya/create-your-first-video-face-recognition-app-bonus-happiness-recognition-78463a3f1f9)
 - [McKay Davis R package](https://mckaymdavis.github.io/klustR/articles/creating_the_package.html)
-- 
 
 ## Blog creation
 
